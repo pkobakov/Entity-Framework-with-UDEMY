@@ -1,0 +1,13 @@
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe.config
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.exe
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\DatabaseFirstDemo.pdb
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.csproj.CopyComplete
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.exe
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\DatabaseFirstDemo\DatabaseFirstDemo\obj\Debug\DatabaseFirstDemo.pdb
