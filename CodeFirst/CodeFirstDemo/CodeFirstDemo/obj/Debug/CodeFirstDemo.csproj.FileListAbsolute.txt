@@ -1,0 +1,15 @@
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe.config
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.exe
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\bin\Debug\CodeFirstDemo.pdb
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.dll
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.xml
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.CopyComplete
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.exe
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.pdb
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.Migrations.CreatePost.resources
+C:\Users\Petar Kobakov\Desktop\Entity-Framework-with-UDEMY\CodeFirst\CodeFirstDemo\CodeFirstDemo\obj\Debug\CodeFirstDemo.csproj.GenerateResource.cache
