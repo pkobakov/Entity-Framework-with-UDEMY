@@ -53,9 +53,9 @@ namespace PlutoProject
             return ((IObjectContextAdapter)this).ObjectContext.CreateQuery<funcGetAuthorCourses_Result>("[PlutoDbContext].[GetAuthorCourses](@AuthorID)", authorIDParameter);
         }
     
-        public virtual ObjectResult<GetCourses_Result> GetCourses()
+        public virtual ObjectResult<GetCoursesResult> GetCourses()
         {
-            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetCourses_Result>("GetCourses");
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetCoursesResult>("GetCourses");
         }
     
         public virtual int InsertCourse(Nullable<int> authorID, string title, string description, Nullable<short> price, string levelString, Nullable<byte> level)
